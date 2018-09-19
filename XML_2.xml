@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="emp.css"?>
+<!DOCTYPE employee SYSTEM "employ.dtd">
+<employee>
+<heading>LIST OF STUDENTS</heading>
+<br />
+<br><text1>R.Karthikeyan</text1> <br/>
+<br><text2>JAVA</text2> <br/>
+<text3>C</text3>
+<text4>C++</text4>
+
+<heading>SELECTED CANDIDATES</heading>
+<text1>R.Karthikeyan</text1>
+<text2>JAVA</text2>
+</employee>
+
